@@ -1,4 +1,4 @@
-# Hangman
+# Påsen
 
 Välkommen till Påsen! :D
 
